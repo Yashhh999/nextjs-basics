@@ -179,6 +179,15 @@ span {
     border-top: 1px solid #cce6ff;
 }
 
+.nav-img{
+    height: 32px;
+    width: 32px;
+    object-fit: contain;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 @media (max-width: 800px) {
   .nav {
     flex-direction: column;
