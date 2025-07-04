@@ -237,3 +237,34 @@ span {
     padding: 10px 0;
   }
 }
+
+.cool-frameworks {
+    background: #fff;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 24px 18px;
+    text-align: center;
+}
+
+.cool-frameworks h1 {
+    font-size: 1.3rem;
+    color: #006eff;
+    margin-bottom: 18px;
+}
+
+.cool-frameworks div {
+    margin-bottom: 18px;
+}
+
+.cool-frameworks img {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 6px;
+}
+
+.cool-frameworks p {
+    font-size: 1rem;
+    margin: 0;
+    color: #284374;
+}
